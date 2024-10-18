@@ -1,0 +1,25 @@
+{
+  "prefix": "!",
+  "adminUIDs": [
+   "your uid"
+  ],
+  "moderatorUIDs": [
+    "your uid",
+    "",
+    ""
+  ],
+  "botName": "bot name",
+  "ownerName": "Your name",
+  "facebookLink": "fb link",
+  "resend": false,
+  "notilogs": true,
+  "appstate": "./appstate.json",
+  "restart": true,
+  "restartTime": 50,
+  "FCA": "hut-chat-api",
+  "loginpanel": {
+    "user": "your username in dashboard",
+    "password": "password your dashboard",
+    "passcode": "12345"
+  }
+}
